@@ -1,0 +1,85 @@
+{
+  "categories": [
+    {
+      "id": "hot",
+      "nameAr": "قهوة ساخنة",
+      "nameEn": "Hot Coffee",
+      "items": [
+        { "ar": "لاتيه لوتس تارت", "en": "Lotus Tart Latte", "price": 2.50, "tag": "popular", "descAr": "من الأصناف المميّزة على صفحتنا في خرائط جوجل", "descEn": "A featured item on our Google Maps listing" },
+        { "ar": "إسبرسو", "en": "Espresso", "price": 1.00 },
+        { "ar": "إسبرسو دوبل", "en": "Double Espresso", "price": 1.25 },
+        { "ar": "أمريكانو", "en": "Americano", "price": 1.25 },
+        { "ar": "كابتشينو", "en": "Cappuccino", "price": 1.75 },
+        { "ar": "كافيه لاتيه", "en": "Caffè Latte", "price": 1.75 },
+        { "ar": "فلات وايت", "en": "Flat White", "price": 2.00 },
+        { "ar": "لاتيه إسباني", "en": "Spanish Latte", "price": 2.25 },
+        { "ar": "موكا", "en": "Mocha", "price": 2.25 },
+        { "ar": "كراميل ماكياتو", "en": "Caramel Macchiato", "price": 2.25 },
+        { "ar": "ماتشا لاتيه", "en": "Matcha Latte", "price": 2.50 },
+        { "ar": "قهوة تركية", "en": "Turkish Coffee", "price": 1.00 },
+        { "ar": "هوت شوكليت", "en": "Hot Chocolate", "price": 2.00 },
+        { "ar": "شاي / شاي أخضر / أعشاب", "en": "Tea / Green Tea / Herbal", "price": 0.75 }
+      ]
+    },
+    {
+      "id": "iced",
+      "nameAr": "قهوة مثلجة ومشروبات باردة",
+      "nameEn": "Iced Coffee & Cold Drinks",
+      "items": [
+        { "ar": "آيس لاتيه", "en": "Iced Latte", "price": 2.00, "tag": "popular" },
+        { "ar": "آيس أمريكانو", "en": "Iced Americano", "price": 1.75 },
+        { "ar": "آيس لاتيه إسباني", "en": "Iced Spanish Latte", "price": 2.50 },
+        { "ar": "آيس موكا", "en": "Iced Mocha", "price": 2.50 },
+        { "ar": "آيس كراميل ماكياتو", "en": "Iced Caramel Macchiato", "price": 2.50 },
+        { "ar": "آيس ماتشا", "en": "Iced Matcha", "price": 2.75 },
+        { "ar": "فرابيه (كراميل / موكا / لوتس)", "en": "Frappé (Caramel / Mocha / Lotus)", "price": 2.75 },
+        { "ar": "أفوجاتو", "en": "Affogato", "price": 2.25 },
+        { "ar": "آيس تي (خوخ / ليمون)", "en": "Iced Tea (Peach / Lemon)", "price": 1.75 },
+        { "ar": "ليموناضة بالنعنع", "en": "Mint Lemonade", "price": 1.75 },
+        { "ar": "عصير طازج (برتقال / ليمون)", "en": "Fresh Juice (orange / lemon)", "price": 2.00 }
+      ]
+    },
+    {
+      "id": "breakfast",
+      "nameAr": "فطور",
+      "nameEn": "Breakfast",
+      "items": [
+        { "ar": "فطور تركي", "en": "Turkish Breakfast", "price": 4.50, "tag": "popular", "descAr": "من الأصناف المميّزة على صفحتنا في خرائط جوجل", "descEn": "A featured item on our Google Maps listing" },
+        { "ar": "فطور شرقي", "en": "Levantine Breakfast", "price": 4.00 },
+        { "ar": "أومليت بالجبنة", "en": "Cheese Omelette", "price": 2.75 },
+        { "ar": "بان كيك", "en": "Pancakes", "price": 2.75 },
+        { "ar": "فرنش توست", "en": "French Toast", "price": 3.00 },
+        { "ar": "كرواسون (جبنة / زعتر / شوكولاتة)", "en": "Croissant (cheese / zaatar / chocolate)", "price": 1.50 },
+        { "ar": "توست أفوكادو", "en": "Avocado Toast", "price": 3.25 }
+      ]
+    },
+    {
+      "id": "desserts",
+      "nameAr": "حلويات",
+      "nameEn": "Desserts",
+      "items": [
+        { "ar": "تشيز كيك", "en": "Cheesecake", "price": 2.25 },
+        { "ar": "تارت لوتس", "en": "Lotus Tart", "price": 2.25 },
+        { "ar": "كيك شوكولاتة", "en": "Chocolate Cake", "price": 2.00 },
+        { "ar": "براوني بالآيس كريم", "en": "Brownie with Ice Cream", "price": 2.50 },
+        { "ar": "كريب نوتيلا", "en": "Nutella Crepe", "price": 2.50 },
+        { "ar": "واقل بالآيس كريم", "en": "Waffle with Ice Cream", "price": 2.75 },
+        { "ar": "آيس كريم ٣ كور", "en": "Ice Cream — 3 Scoops", "price": 1.75 },
+        { "ar": "كوكيز", "en": "Cookies", "price": 1.00 }
+      ]
+    },
+    {
+      "id": "bites",
+      "nameAr": "مأكولات خفيفة",
+      "nameEn": "Light Bites",
+      "items": [
+        { "ar": "كلوب ساندويش مع بطاطا", "en": "Club Sandwich with Fries", "price": 3.50 },
+        { "ar": "ساندويش دجاج", "en": "Chicken Sandwich", "price": 3.25 },
+        { "ar": "بطاطا مقلية", "en": "French Fries", "price": 1.50 },
+        { "ar": "بطاطا بالجبنة", "en": "Cheese Fries", "price": 2.00 },
+        { "ar": "أصابع موزاريلا", "en": "Mozzarella Sticks", "price": 2.25 },
+        { "ar": "ناتشوز بالجبنة", "en": "Nachos with Cheese", "price": 2.25 }
+      ]
+    }
+  ]
+}
